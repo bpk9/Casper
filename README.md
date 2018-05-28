@@ -1,5 +1,5 @@
 # Casper by Brian Kasper
-# Personal Assistant using WolframAlpha and Wikipedia
+# Personal Assistant with Speech Recognition via Google Speech API, Wolfram Alpha, and Wikipedia
 # Must use Python 2.7 and install modules using pip
 
 # pip install wolframalpha
