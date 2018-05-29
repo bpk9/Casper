@@ -5,3 +5,4 @@
 # pip install wolframalpha
 # pip install wikipedia
 # pip install requests
+# pip install SpeechRecognition
