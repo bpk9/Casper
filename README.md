@@ -6,3 +6,4 @@
 # pip install wikipedia
 # pip install requests
 # pip install SpeechRecognition
+# pip install gTTS
