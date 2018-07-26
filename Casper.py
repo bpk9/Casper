@@ -119,6 +119,9 @@ while True:
     if answer != None:
       speak(answer[1])
       time.sleep(len(answer[1]) // 5)
+    else:
+      speak("Sorry, I could not find an answer to your question")
+      time.sleep(5)
 
   # Continue to get user input
   question = recordAudio()
